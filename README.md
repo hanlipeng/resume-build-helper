@@ -45,7 +45,7 @@ Once the information is collected, the focus shifts to creating and refining the
 
 Simply start interacting with the Gemini CLI in this project's directory. 
 Input below prompt
-`follow @RESUME_WORKFLOW.en.md and help me build a resume.`
+`build resume`
 The assistant will guide you through the process outlined above, starting with the initialization step.
 
 ---

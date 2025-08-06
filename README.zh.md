@@ -39,5 +39,5 @@
 
 只需在此项目的目录中开始与 Gemini CLI 互动。
 输入
-`根据@RESUME_WORKFLOW.md帮我生成一份简历`
+`build resume`
 助手将引导您完成上述流程，从初始化步骤开始。
