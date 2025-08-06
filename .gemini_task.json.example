@@ -1,0 +1,64 @@
+{
+  "task_name": "Resume Generation",
+  "status": "pending",
+  "current_step": 0,
+  "steps": [
+    {
+      "id": 1,
+      "name": "基本信息收集",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "个人简介撰写",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "工作经历梳理",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "name": "项目经验整理",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "教育背景记录",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "name": "专业技能汇总",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "name": "生成简历初稿",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "name": "审查与迭代修改",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "name": "最终版本导出",
+      "status": "pending"
+    }
+  ],
+  "data": {
+    "basic_info": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "summary": "",
+    "work_experience": [],
+    "project_experience": [],
+    "education": [],
+    "skills": {}
+  }
+}
